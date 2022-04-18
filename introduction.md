@@ -42,6 +42,8 @@ description: '*代表额外增加的内容'
 
 \*离群点检测：
 
+![例子来源于geeksforgeeks](<.gitbook/assets/image (2).png>)
+
 
 
 ### 1.2.3 半监督学习
