@@ -36,7 +36,7 @@ description: '*代表额外增加的内容'
 
 ![例子来源于geeksforgeeks](<.gitbook/assets/image (1).png>)
 
-\*降维：下图说明了这个概念，其中一个3-D特征空间被分割成两个1-D特征空间，之后，如果发现有相关性，特征的数量可以进一步减少。
+\*降维：
 
 ![例子来源于geeksforgeeks](.gitbook/assets/image.png)
 
