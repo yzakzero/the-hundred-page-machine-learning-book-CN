@@ -34,15 +34,15 @@ description: '*代表额外增加的内容'
 
 \*聚类：下图中坐标轴的点通过聚类算法，可以得到右边图划分3类的结果。
 
-![例子来源于geeksforgeeks](<.gitbook/assets/image (1) (1).png>)
+![例子来源于geeksforgeeks](<.gitbook/assets/image (1) (1) (1).png>)
 
 \*降维：
 
-![例子来源于geeksforgeeks](.gitbook/assets/image.png)
+![例子来源于geeksforgeeks](<.gitbook/assets/image (1).png>)
 
 \*离群点检测：
 
-![例子来源于geeksforgeeks](<.gitbook/assets/image (2).png>)
+![例子来源于geeksforgeeks](<.gitbook/assets/image (2) (1).png>)
 
 
 
@@ -116,7 +116,7 @@ $$
 
 那么我们需要满足哪些约束条件呢?首先，我们希望这个模型能正确预测10000个样本的标签。记住，每个例子i = 1，…， 10000由一对(xi, yi)给出，其中xi是样本i的特征向量，yi是它的标签，值为-1或+1。所以约束条件自然是：
 
-![图1：一个二维特征向量支持向量机模型的例子](<.gitbook/assets/image (3).png>)
+![图1：一个二维特征向量支持向量机模型的例子](<.gitbook/assets/image (3) (1).png>)
 
 $$
 wx_i-b\geq+1\space if \space y_i =+1,
